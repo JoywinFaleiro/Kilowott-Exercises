@@ -7,10 +7,10 @@ of the number, and when the number is divisible by 5, the word “Buzz” is pri
 instead of the number, and when the number is divisible by by both 3 and 5, then the
 word “FizzBuzz” is printed instead of the number. 
 
-Tasks
-a Write the output sequence of what the output will look like
-b Write the algorithm for delivering the output
-c Write the program that follows the algorithm
+#Tasks
+a. Write the output sequence of what the output will look like
+b. Write the algorithm for delivering the output
+c. Write the program that follows the algorithm
 
 ### Exercise 2 
 Problem statement
