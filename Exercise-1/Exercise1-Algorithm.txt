@@ -1,0 +1,8 @@
+Fizz-bizz Algorithm
+step 1: declare a variable i.
+step 2:write a for loop for i where i is less than or equal to 30, increment i.
+step 3:inside the for loop write a if else  statement for i,
+      if i is divisible by 3 output Fizz
+      else if i is divisible by 5 output Bizz
+      else if i is divisible by 15 output FizzBizz since any number that is divisible by both 3 and 5 will be divisible by 15.
+step 4:else ouput i.
