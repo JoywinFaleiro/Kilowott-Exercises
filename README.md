@@ -8,7 +8,7 @@ instead of the number, and when the number is divisible by by both 3 and 5, then
 word “FizzBuzz” is printed instead of the number. 
 
 Tasks <br>
-a. Write the output sequence of what the [output]() will look like<br>
+a. Write the output sequence of what the [output](https://github.com/JoywinFaleiro/Kilowott-Exercises/blob/main/Exercise-1/Exercise1-Algorithm.txt) will look like<br>
 b. Write the algorithm for delivering the output<br>
 c. Write the program that follows the algorithm<br>
 
