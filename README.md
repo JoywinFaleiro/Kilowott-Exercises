@@ -8,9 +8,9 @@ instead of the number, and when the number is divisible by by both 3 and 5, then
 word “FizzBuzz” is printed instead of the number. 
 
 Tasks <br>
-a. Write the output sequence of what the [output](https://github.com/JoywinFaleiro/Kilowott-Exercises/blob/main/Exercise-1/Exercise1-Algorithm.txt) will look like<br>
-b. Write the algorithm for delivering the output<br>
-c. Write the program that follows the algorithm<br>
+a. Write the output sequence of what the [Output]() will look like<br>
+b. Write the [Algorithm](https://github.com/JoywinFaleiro/Kilowott-Exercises/blob/main/Exercise-1/Exercise1-Algorithm.txt) for delivering the output<br>
+c. Write the [Program] ()that follows the algorithm<br>
 
 ### Exercise 2 
 Problem statement<br>
@@ -19,5 +19,5 @@ user and will print the “ordinal” form of the number. For example, when the 
 enters the number “31”, the program will respond with “thirty first”
 
 Tasks<br>
-a. Write the algorithm for delivering the output<br>
-b. Write the program that follows the algorithm<br>
+a. Write the [Algorithm]() for delivering the output<br>
+b. Write the [Program]() that follows the algorithm<br>
