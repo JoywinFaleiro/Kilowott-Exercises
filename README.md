@@ -1,6 +1,6 @@
 # Kilowott-Exercises
-## [Exercise 1](https://github.com/JoywinFaleiro/Kilowott-Exercises/tree/main/Exercise-1
-) 
+## [Exercise 1](https://github.com/JoywinFaleiro/Kilowott-Exercises/tree/main/Exercise-1) 
+
 Problem statement<br>
 Fizz-Buzz: Write a program that will print numbers from 1 to 30, with the following
 exceptions that when the number is divisible by 3, the word “Fizz” is printed instead
@@ -11,8 +11,8 @@ word “FizzBuzz” is printed instead of the number.
 **Tasks** <br>
 a. Write the output sequence of what the [Output](https://github.com/JoywinFaleiro/Kilowott-Exercises/blob/main/Exercise-1/Exercise1-Output.txt) will look like<br>
 b. Write the [Algorithm](https://github.com/JoywinFaleiro/Kilowott-Exercises/blob/main/Exercise-1/Exercise1-Algorithm.txt) for delivering the output<br>
-c. Write the [Program] (https://github.com/JoywinFaleiro/Kilowott-Exercises/blob/main/Exercise-1/Exercise-1.php
-)that follows the algorithm<br>
+c. Write the [Program] (https://github.com/JoywinFaleiro/Kilowott-Exercises/blob/main/Exercise-1/Exercise-1.php)that follows the algorithm<br>
+
 
 ### Exercise 2 
 Problem statement<br>
