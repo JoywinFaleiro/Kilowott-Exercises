@@ -14,7 +14,7 @@ b. Write the [Algorithm](https://github.com/JoywinFaleiro/Kilowott-Exercises/blo
 c. Write the [Program](https://github.com/JoywinFaleiro/Kilowott-Exercises/blob/main/Exercise-1/Exercise-1.php) that follows the algorithm<br>
 
 
-### Exercise 2 
+### [Exercise 2]((https://github.com/JoywinFaleiro/Kilowott-Exercises/blob/main/Exercise-2) 
 Problem statement<br>
 Number to Ordinal: Write a program that will take as input any number from the
 user and will print the “ordinal” form of the number. For example, when the user
