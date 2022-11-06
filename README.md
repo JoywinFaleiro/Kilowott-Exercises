@@ -11,7 +11,7 @@ word “FizzBuzz” is printed instead of the number.
 **Tasks** <br>
 a. Write the output sequence of what the [Output](https://github.com/JoywinFaleiro/Kilowott-Exercises/blob/main/Exercise-1/Exercise1-Output.txt) will look like<br>
 b. Write the [Algorithm](https://github.com/JoywinFaleiro/Kilowott-Exercises/blob/main/Exercise-1/Exercise1-Algorithm.txt) for delivering the output<br>
-c. Write the [Program] (https://github.com/JoywinFaleiro/Kilowott-Exercises/blob/main/Exercise-1/Exercise-1.php)that follows the algorithm<br>
+c. Write the [Program](https://github.com/JoywinFaleiro/Kilowott-Exercises/blob/main/Exercise-1/Exercise-1.php) that follows the algorithm<br>
 
 
 ### Exercise 2 
